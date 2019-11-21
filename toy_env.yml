@@ -1,0 +1,15 @@
+name: toy_env
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tqdm
+  - jupyter
+  - pytorch==1.2.0
+  - torchvision==0.4.0
+  - cudatoolkit=10.0
