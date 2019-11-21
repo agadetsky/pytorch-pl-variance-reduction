@@ -33,3 +33,5 @@ python toy_experiment.py --estimator relax
 Plot figure using `plot_toy.ipynb`
 
 ![alt text](./figures/toy_together.png)
+
+Results were obtained using `cpu`. Quantitative results for `cuda` may vary slighlty due to randomness in `cuda` kernels, but qualitative results remain the same.
