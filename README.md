@@ -31,3 +31,5 @@ python toy_experiment.py --estimator relax
 ```
 
 Plot figure using `plot_toy.ipynb`
+
+![alt text](./figures/toy_together.png)
