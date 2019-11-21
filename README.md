@@ -14,7 +14,7 @@ Coming soon
 
 # Toy Experiment
 
-Prepare environment:
+Prepare environment (maybe you'll need to change `cudatoolkit` version in `toy_env.yml` or even use `cpuonly` version of PyTorch):
 
 ```
 conda env create -f toy_env.yml
