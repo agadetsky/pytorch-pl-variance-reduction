@@ -1,6 +1,6 @@
 # Low-variance Black-box Gradient Estimates for the Plackett-Luce Distribution
 
-This repo contains code for our paper Low-variance Black-box Gradient Estimates for the Plackett-Luce Distribution.
+This repo contains code for our paper [Low-variance Black-box Gradient Estimates for the Plackett-Luce Distribution](https://arxiv.org/abs/1911.10036).
 
 __Abstract__
 
