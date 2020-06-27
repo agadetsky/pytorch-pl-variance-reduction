@@ -9,7 +9,20 @@ Learning models with discrete latent variables using stochastic gradient descent
 # Citation
 
 ```
-Coming soon
+@inproceedings{gadetsky2020lowvariance,
+  author    = {Artyom Gadetsky and
+               Kirill Struminsky and
+               Christopher Robinson and
+               Novi Quadrianto and
+               Dmitry P. Vetrov},
+  title     = {Low-Variance Black-Box Gradient Estimates for the Plackett-Luce Distribution},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020, New York, NY, USA, February 7-12, 2020},
+  pages     = {10126--10135},
+  publisher = {{AAAI} Press},
+  year      = {2020},
+  url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6572}
+}
 ```
 
 # Toy Experiment
